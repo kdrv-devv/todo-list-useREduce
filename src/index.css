@@ -77,12 +77,12 @@ button{
 /* Har bir qor uchun turli xil joylashuv va tezlik */
 .snowflake:nth-child(1) {
   left: 10%;
-  animation-duration: 5s;
+  animation-duration: 8s;
 }
 
 .snowflake:nth-child(2) {
   left: 30%;
-  animation-duration: 7s;
+  animation-duration: 4s;
 }
 
 .snowflake:nth-child(3) {
@@ -92,5 +92,22 @@ button{
 
 .snowflake:nth-child(4) {
   left: 70%;
+  animation-duration: 5s;
+}
+
+.snowflake:nth-child(6) {
+  left: 75%;
   animation-duration: 4s;
 }
+.snowflake:nth-child(7) {
+  left: 80%;
+  animation-duration: 5s;
+}
+.snowflake:nth-child(8) {
+  left: 83%;
+  animation-duration: 8s;
+}
+
+
+
+/* bulutlar uchun animatsiya va stylelar */
